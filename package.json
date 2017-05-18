@@ -4,7 +4,8 @@
   "author": "Denis Stepulenok",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.4",
+    "live-server": "^1.2.0"
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"

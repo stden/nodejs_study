@@ -11,3 +11,9 @@ How to install local travis-ci tool:
 ```bash
 gem install travis
 ```
+
+Run coverage:
+```bash
+npm install live-server --save-dev
+node_modules/.bin/live-server --port=8000
+```
