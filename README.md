@@ -7,3 +7,7 @@ node.js study
 
 https://github.com/dwyl/learn-travis
 
+How to install local travis-ci tool:
+```bash
+gem install travis
+```
