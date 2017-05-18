@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "istanbul": "^0.4.5",
+    "jsdoc": "^3.4.3",
     "jshint": "^2.9.4",
     "live-server": "^1.2.0",
     "qunit-tap": "^1.5.1",
