@@ -1,0 +1,8 @@
+[tools]
+node = "0.12"
+
+[tasks.check]
+run = "git diff --check"
+
+[tasks.test]
+run = "npm run test"
